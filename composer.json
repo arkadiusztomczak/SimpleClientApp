@@ -1,0 +1,6 @@
+{
+    "require": {
+        "psr/http-message": "^1.0",
+        "paragonie/sodium_compat": "^1.19"
+    }
+}
